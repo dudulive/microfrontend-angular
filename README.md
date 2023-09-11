@@ -1,7 +1,6 @@
 # microfrontend-angular
 
-https://angular-extensions.github.io/elements/home
-
+## header
 https://www.npmjs.com/package/http-server
 
 ```
@@ -13,4 +12,12 @@ npm i concat
 ## Build
 ```
 npm run bundle
+```
+
+## body
+
+https://angular-extensions.github.io/elements/home
+
+```
+npm i @angular-extensions/elements
 ```
