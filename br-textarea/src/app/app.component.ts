@@ -7,7 +7,7 @@ import { FormControl, Validators } from '@angular/forms';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'br-textarea';
+
   @Input()
   label: string = "";
   @Input()

@@ -8,5 +8,6 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title = 'body';
 
-  jsHeader = 'http://localhost:8081/header.js';
+  jsHeader = 'http://localhost:8080/header.js';
+  jsBrTextarea = 'http://localhost:8080/br-textarea.js';
 }
