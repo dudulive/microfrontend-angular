@@ -5,6 +5,7 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { LazyElementsModule } from '@angular-extensions/elements';
 
+
 @NgModule({
   declarations: [
     AppComponent
